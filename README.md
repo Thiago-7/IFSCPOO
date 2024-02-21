@@ -23,14 +23,14 @@ descricao comando
 
 ### add
 
-descricao comando
+o gir add é responsável por preparar os arquivos para o próximo commit, portanto ele prepara o arquivo para que possamos subir para web
 ```bash
-    comando exemplo
+    git add
 ```
 
 ### commit
 
-descricao comando
+
 ```bash
     comando exemplo
 ```
