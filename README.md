@@ -51,14 +51,14 @@ descricao comando
 
 ### log
 
-descricao comando
+Lista os commits feitos no repositório, o autor do commit e a data
 ```bash
-    comando exemplo
+    git log
 ```
 
 ### restore
 
-descricao comando
+Restaura algum arquivo ou diretório
 ```bash
-    comando exemplo
+    git restore
 ```
