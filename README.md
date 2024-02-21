@@ -9,16 +9,16 @@
 
 ### init
 
-Comando para iniciar um novo repositório
+descricao comando
 ```bash
-    git init
+    comando exemplo
 ```
 
 ### status
 
-Comando para verificar as condições do diretório de trabalho
+descricao comando
 ```bash
-    git status
+    comando exemplo
 ```
 
 ### add
@@ -30,9 +30,9 @@ o gir add é responsável por preparar os arquivos para o próximo commit, porta
 
 ### commit
 
-
+commit serve para fazer alterações no projeto, sendo necessário anexar uma mensagem para informar oque foi alterado no projeto
 ```bash
-    comando exemplo
+    git commit -m "alterado x"
 ```
 
 ### pull
