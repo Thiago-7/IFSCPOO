@@ -9,16 +9,16 @@
 
 ### init
 
-descricao comando
+Comando para iniciar um novo repositório.
 ```bash
-    comando exemplo
+    git init
 ```
 
 ### status
 
-descricao comando
+Comando para verificar as condições do diretório das tarefas
 ```bash
-    comando exemplo
+    git status
 ```
 
 ### add
