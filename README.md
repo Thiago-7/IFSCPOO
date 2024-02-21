@@ -37,16 +37,18 @@ descricao comando
 
 ### pull
 
-descricao comando
+Descrição:
+O comando pull é usado para buscar e baixar conteúdo de um repositório remoto e atualizar imediatamente o repositório local para corresponder a esse conteúdo.
+
 ```bash
-    comando exemplo
+    git pull origin main // git pull [opções] [repositório [refspec]]
 ```
 
 ### push
 
-descricao comando
+O comando push é usado para enviar conteúdo do repositório local para um repositório remoto.
 ```bash
-    comando exemplo
+    git push [opções] [repositório [refspec]] // git push origin main
 ```
 
 ### log
