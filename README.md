@@ -58,7 +58,7 @@ Lista os commits feitos no repositório, o autor do commit e a data
 
 ### restore
 
-Restaura algum arquivo ou diretório
+Restaura algum arquivo, mudanças ou diretório
 ```bash
     git restore
 ```
